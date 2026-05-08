@@ -1,0 +1,7 @@
+.env
+lstm_model.h5
+scaler.pkl
+__pycache__/
+*.pyc
+venv/
+.DS_Store
